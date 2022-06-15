@@ -19,4 +19,15 @@ jobs:
           repository: harfang3d/tutorials-hg2
           databranch: github-repo-stats
           ghtoken: ${{ secrets.ghrs_github_api_token }}
+  j2:
+    name: github-repo-stats-2
+    runs-on: ubuntu-latest
+    steps:
+      - name: run-ghrs
+        # Use latest release.
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          repository: harfang3d/harfang3d
+          databranch: github-repo-stats-harfang3d
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
 
