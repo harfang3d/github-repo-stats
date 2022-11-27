@@ -42,7 +42,7 @@ jobs:
           databranch: github-repo-stats-dogfight-sandbox-hg2
           ghtoken: ${{ secrets.ghrs_github_api_token }}
   j4:
-    name: github-repo-stats-3
+    name: github-repo-stats-4
     runs-on: ubuntu-latest
     steps:
       - name: run-ghrs
