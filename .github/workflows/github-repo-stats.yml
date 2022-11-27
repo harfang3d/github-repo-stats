@@ -52,4 +52,58 @@ jobs:
           repository: harfang3d/harfang-gui
           databranch: github-repo-stats-harfang-gui
           ghtoken: ${{ secrets.ghrs_github_api_token }}
-
+  j5:
+    name: github-repo-stats-5
+    runs-on: ubuntu-latest
+    steps:
+      - name: run-ghrs
+        # Use latest release.
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          repository: harfang3d/dogfight-sandbox-hg1
+          databranch: github-repo-stats-dogfight-sandbox-hg1
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
+  j6:
+    name: github-repo-stats-6
+    runs-on: ubuntu-latest
+    steps:
+      - name: run-ghrs
+        # Use latest release.
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          repository: harfang3d/harfang-go
+          databranch: github-repo-stats-harfang-go
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
+  j7:
+    name: github-repo-stats-7
+    runs-on: ubuntu-latest
+    steps:
+      - name: run-ghrs
+        # Use latest release.
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          repository: harfang3d/python-digital-twin
+          databranch: github-repo-stats-/python-digital-twin
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
+  j8:
+    name: github-repo-stats-8
+    runs-on: ubuntu-latest
+    steps:
+      - name: run-ghrs
+        # Use latest release.
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          repository: harfang3d/sample-projects
+          databranch: github-repo-stats-/sample-projects
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
+  j9:
+    name: github-repo-stats-9
+    runs-on: ubuntu-latest
+    steps:
+      - name: run-ghrs
+        # Use latest release.
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          repository: harfang3d/car-simulator
+          databranch: github-repo-stats-/car-simulator
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
