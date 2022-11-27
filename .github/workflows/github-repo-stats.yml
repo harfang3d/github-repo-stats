@@ -30,4 +30,26 @@ jobs:
           repository: harfang3d/harfang3d
           databranch: github-repo-stats-harfang3d
           ghtoken: ${{ secrets.ghrs_github_api_token }}
+  j3:
+    name: github-repo-stats-3
+    runs-on: ubuntu-latest
+    steps:
+      - name: run-ghrs
+        # Use latest release.
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          repository: harfang3d/dogfight-sandbox-hg2
+          databranch: github-repo-stats-dogfight-sandbox-hg2
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
+  j4:
+    name: github-repo-stats-3
+    runs-on: ubuntu-latest
+    steps:
+      - name: run-ghrs
+        # Use latest release.
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          repository: harfang3d/harfang-gui
+          databranch: github-repo-stats-harfang-gui
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
 
