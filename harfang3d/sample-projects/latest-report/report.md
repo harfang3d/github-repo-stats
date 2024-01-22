@@ -1,5 +1,5 @@
 % Statistics for harfang3d/sample-projects
-% Generated for [harfang3d/sample-projects](https://github.com/harfang3d/sample-projects) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-01-21 23:01 UTC.
+% Generated for [harfang3d/sample-projects](https://github.com/harfang3d/sample-projects) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-01-22 23:01 UTC.
 
 
 ## Views
@@ -75,7 +75,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `linkedin.com`, 02: `t.co`, 03: `github.com`, 04: `harfang3d.com`, 05: `youtube.com`, 06: `com.linkedin.android`, 07: `Google`, 08: `reddit.com`, 09: `dev.harfang3d.com`, 10: `DuckDuckGo`, 11: `pypi.org`
+Top 15 referrers: 01: `linkedin.com`, 02: `t.co`, 03: `github.com`, 04: `harfang3d.com`, 05: `youtube.com`, 06: `com.linkedin.android`, 07: `Google`, 08: `pypi.org`, 09: `dev.harfang3d.com`, 10: `DuckDuckGo`, 11: `reddit.com`
 
 
 
@@ -86,7 +86,7 @@ Top 15 referrers: 01: `linkedin.com`, 02: `t.co`, 03: `github.com`, 04: `harfang
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/blob/main/img/science-lab.png`, 03: `/pulls`, 04: `/blob/main/img/orca-bistro.png`, 05: `/tree/main/orca-bistro`, 06: `/blob/main/img/car-engine.png`, 07: `/tree/main/car-engine`, 08: `/issues`, 09: `/releases`, 10: `/tree/main/science-lab`, 11: `/stargazers`, 12: `/blob/main/car-engine/core/noise/HDR_L_1.png`, 13: `/tree/main/cornell-box/core`, 14: `/blob/main/orca-bistro/main.scn.editor`, 15: `/tree/main/cornell-box`
+Top 15 paths: 01: `/`, 02: `/blob/main/img/science-lab.png`, 03: `/pulls`, 04: `/blob/main/img/orca-bistro.png`, 05: `/tree/main/orca-bistro`, 06: `/blob/main/img/car-engine.png`, 07: `/tree/main/car-engine`, 08: `/releases`, 09: `/tree/main/science-lab`, 10: `/issues`, 11: `/stargazers`, 12: `/tree/main/orca-bistro/common`, 13: `/blob/e17aaf1a97c92f2e064fafa4a4ba18c7f052d65a/range-rover/car_rangerover/fbx_importer_cfg.txt`, 14: `/blob/main/car-engine/car_engine/1001_02.geo`, 15: `/tree/e17aaf1a97c92f2e064fafa4a4ba18c7f052d65a`
 
 
 <script type="text/javascript">
