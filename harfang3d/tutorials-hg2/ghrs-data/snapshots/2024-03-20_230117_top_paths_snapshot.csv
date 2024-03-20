@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/harfang3d/tutorials-hg2,20,15
+/harfang3d/tutorials-hg2/tree/master/resources,6,1
+/harfang3d/tutorials-hg2/tree/master/resources/paper_plane,5,1
+/harfang3d/tutorials-hg2/blob/master/draw_text.lua,4,2
+/harfang3d/tutorials-hg2/blob/master/scene_instances.py,4,1
+/harfang3d/tutorials-hg2/blob/master/resources/paper_plane/Shape.geo,3,1
+/harfang3d/tutorials-hg2/blob/master/audio_play_sound_spatialized.lua,2,1
+/harfang3d/tutorials-hg2/blob/master/basic_loop.py,2,1
+/harfang3d/tutorials-hg2/blob/master/physics_impulse.lua,2,1
+/harfang3d/tutorials-hg2/blob/master/picture_save.py,2,1
