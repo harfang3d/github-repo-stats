@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/harfang3d/harfang-ui/tree/main/bdist_wheel,9,2
+/harfang3d/harfang-ui/tree/main/bdist_wheel/harfangui,8,2
+/harfang3d/harfang-ui,6,5
+/harfang3d/harfang-ui/tree/main/samples,6,2
+/harfang3d/harfang-ui/blob/main/bdist_wheel/harfangui/harfangui.py,4,1
+/harfang3d/harfang-ui/blob/main/samples/1-Window2D.py,4,1
+/harfang3d/harfang-ui/blob/main/samples/2-Window3D.py,4,1
+/harfang3d/harfang-ui/blob/main/samples/6-Full_widgets_2D_mode.py,4,1
+/harfang3d/harfang-ui/releases/tag/v2.0.1,2,2
+/harfang3d/harfang-ui/blob/main/bdist_wheel/requirements.txt,2,1
