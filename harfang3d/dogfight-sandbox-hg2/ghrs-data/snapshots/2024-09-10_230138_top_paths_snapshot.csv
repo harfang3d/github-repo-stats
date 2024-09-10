@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/harfang3d/dogfight-sandbox-hg2,168,79
+/harfang3d/dogfight-sandbox-hg2/tree/main/Agent,83,11
+/harfang3d/dogfight-sandbox-hg2/tree/main/source,49,9
+/harfang3d/dogfight-sandbox-hg2/blob/main/Agent/Train.py,39,5
+/harfang3d/dogfight-sandbox-hg2/blob/main/Agent/HarfangEnv_GYM.py,30,5
+/harfang3d/dogfight-sandbox-hg2/tree/main,25,9
+/harfang3d/dogfight-sandbox-hg2/issues,25,3
+/harfang3d/dogfight-sandbox-hg2/blob/main/Agent/dogfight_client.py,21,3
+/harfang3d/dogfight-sandbox-hg2/blob/main/documentation_network.md,20,10
+/harfang3d/dogfight-sandbox-hg2/blob/main/Agent/NeuralNetwork.py,20,4
