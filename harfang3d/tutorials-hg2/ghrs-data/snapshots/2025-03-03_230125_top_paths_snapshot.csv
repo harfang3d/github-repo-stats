@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/harfang3d/tutorials-hg2,21,18
+/harfang3d/tutorials-hg2/tree/master/screenshots,5,1
+/harfang3d/tutorials-hg2/tree/master/resources,3,2
+/harfang3d/tutorials-hg2/blob/master/screenshots/aaa.png,2,2
+/harfang3d/tutorials-hg2/tree/master,2,2
+/harfang3d/tutorials-hg2/actions,2,1
+/harfang3d/tutorials-hg2/blob/master/draw_and_create_model_no_pipeline.py,2,1
+/harfang3d/tutorials-hg2/blob/master/resources/shaders/bloom/bgfx_shader.sh,2,1
+/harfang3d/tutorials-hg2/blob/master/resources/shaders/bloom/bloom_downsample_vs.sc,2,1
+/harfang3d/tutorials-hg2/blob/master/resources/shaders/bloom/bloom_threshold_varying.def,2,1
