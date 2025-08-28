@@ -1,5 +1,5 @@
 % Statistics for harfang3d/harfang-gui
-% Generated for [harfang3d/harfang-gui](https://github.com/harfang3d/harfang-gui) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-08-27 23:01 UTC.
+% Generated for [harfang3d/harfang-gui](https://github.com/harfang3d/harfang-gui) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-08-28 23:01 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `t.co`, 04: `youtube.com`, 05: `harfang3d.com`, 06: `gamefromscratch.com`, 07: `cn.bing.com`, 08: `golangexample.com`, 09: `discuss.afpy.org`, 10: `users.rust-lang.org`, 11: `reddit.com`, 12: `harfang3d.github.io`, 13: `chatgpt.com`, 14: `ca.search.yahoo.com`, 15: `Bing`
+Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `t.co`, 04: `youtube.com`, 05: `harfang3d.com`, 06: `gamefromscratch.com`, 07: `cn.bing.com`, 08: `reddit.com`, 09: `ca.search.yahoo.com`, 10: `golangexample.com`, 11: `chatgpt.com`, 12: `users.rust-lang.org`, 13: `harfang3d.github.io`, 14: `discuss.afpy.org`, 15: `Bing`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `t.co`, 04: `youtube.com`,
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `ui`, 02: `gui`, 03: `ui/tree/main/samples`, 04: `gui/tree/main/source`, 05: `ui/tree/main/bdist_wheel`, 06: `ui/blob/main/screenshots/gui.png`, 07: `ui/tree/main/bdist_wheel/harfangui`, 08: `gui/tree/main/bin`, 09: `ui/releases`, 10: `ui/tree/main/screenshots`, 11: `ui/blob/main/samples/1-Window2D.py`, 12: `ui/blob/main/bdist_wheel/harfangui/harfangui.py`, 13: `gui/tree/main/screenshots`, 14: `ui/tree/main/bdist_wheel/harfangui/assets/core/shader`, 15: `ui/blob/main/samples/3-Window3D_and_Window2D.py`
+Top 15 paths: 01: `ui`, 02: `gui`, 03: `ui/tree/main/samples`, 04: `gui/tree/main/source`, 05: `ui/tree/main/bdist_wheel`, 06: `ui/blob/main/screenshots/gui.png`, 07: `ui/tree/main/bdist_wheel/harfangui`, 08: `ui/blob/main/samples/1-Window2D.py`, 09: `ui/releases`, 10: `ui/tree/main/screenshots`, 11: `gui/tree/main/bin`, 12: `ui/blob/main/bdist_wheel/harfangui/harfangui.py`, 13: `ui/tree/main/bdist_wheel/harfangui/assets`, 14: `gui/tree/main/bin/harfang`, 15: `gui/blob/main/source/harfang_gui.py`
 
 
 <script type="text/javascript">
